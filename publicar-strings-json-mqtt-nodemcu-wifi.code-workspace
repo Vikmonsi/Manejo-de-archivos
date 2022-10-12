@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../publicar-strings-json-mqtt-nodemcu-wifi"
+		},
+		{
+			"path": "../Flow 6_publicar-strings-json-mqtt-nodemcu-wifi"
+		},
+		{
+			"path": "../Introducci-n-Python"
+		},
+		{
+			"path": "../Basicos-phyton"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
